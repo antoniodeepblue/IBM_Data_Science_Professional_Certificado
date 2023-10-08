@@ -10,5 +10,5 @@ La optimización de este  plan de lanzamiento de SpaceX se enfoca en analizar qu
 <span>![lanzamiento del SpaceX]</span>
 <span>https://github.com/elviacortez/ciencia-de-datos/blob/main/spacex.jpg</span>
 
-
+<img src="https://github.com/elviacortez/ciencia-de-datos/blob/main/spacex.jpg" height="400px" width="600px" alt="SpaceX">
 
