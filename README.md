@@ -7,5 +7,7 @@ Los datos de lanzamientos anteriores se han utilizado para predecir la tendencia
 
 La optimización de este  plan de lanzamiento de SpaceX se enfoca en analizar qué factores tienen el mayor impacto en el costo y la eficiencia de un lanzamiento. A partir de estos análisis, se desarrollan modelos predictivos que ayuden a SpaceX a optimizar sus operaciones.
 
-![SpaceX](https://unsplash.com/es/fotos/MEW1f-yu2KI)https://unsplash.com/es/fotos/MEW1f-yu2KI  "SpaceX")
+![SpaceX](https://unsplash.com/es/fotos/MEW1f-yu2KI  "SpaceX")
+<img src=")https://unsplash.com/es/fotos/MEW1f-yu2KI" alt="SpaceX" width="600"/>
+
 
