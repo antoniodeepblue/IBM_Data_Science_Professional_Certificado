@@ -6,3 +6,4 @@ El proyecto final de ciencia de datos de IBM  se refiere específicamente a la r
 Los datos de lanzamientos anteriores se han utilizado para predecir la tendencia del éxito o fracaso de futuros lanzamientos. Esto implicó el uso de técnicas de aprendizaje automático y análisis de datos para identificar factores que influyen en el éxito de un lanzamiento, como las condiciones meteorológicas, la carga útil, la ubicación del sitio de lanzamiento, etc.
 
 La optimización de este  plan de lanzamiento de SpaceX se enfoca en analizar qué factores tienen el mayor impacto en el costo y la eficiencia de un lanzamiento. A partir de estos análisis, se desarrollan modelos predictivos que ayuden a SpaceX a optimizar sus operaciones.
+https://unsplash.com/es/fotos/MEW1f-yu2KI
