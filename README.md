@@ -1,4 +1,4 @@
-# ciencia-de-datos
+# Ciencia de Datos
 Proyecto de ciencia de datos aplicada.<br>
 Para guardar los laboratorios realizados en el curso
 El proyecto final de ciencia de datos de IBM  se refiere específicamente a la reutilización de la primera etapa del cohete en los lanzamientos de SpaceX, a través de la ciencia de datos se extrae información significativa de los datos para analizar diversos aspectos de sus operaciones, como el rendimiento de los cohetes, el análisis de los vuelos, la optimización de los lanzamientos, entre otros.
