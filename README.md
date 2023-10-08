@@ -7,5 +7,5 @@ Los datos de lanzamientos anteriores se han utilizado para predecir la tendencia
 
 La optimización de este  plan de lanzamiento de SpaceX se enfoca en analizar qué factores tienen el mayor impacto en el costo y la eficiencia de un lanzamiento. A partir de estos análisis, se desarrollan modelos predictivos que ayuden a SpaceX a optimizar sus operaciones.
 
-<span><img src="https://github.com/elviacortez/ciencia-de-datos/blob/main/spacex.jpg" height="700px" width="960px" alt="SpaceX"></span>
+<span><img src="https://github.com/elviacortez/ciencia-de-datos/blob/main/spacex-MEW1f-yu2KI-unsplash.jpg" height="700px" width="960px" alt="SpaceX"></span>
 
