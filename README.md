@@ -1,3 +1,7 @@
+# IBM_Data_Science_Professional_Certificado
+Este repositorio reúne todo el plan para alcanzar la certificación y los objetivos que se han de cumplir para obtenerlo así como el proyecto final presentado para aplicar todos los conocimientos adquiridos.
+ El ennlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
+
 # Ciencia de Datos
 Proyecto de ciencia de datos aplicada, donde se guardan los laboratorios realizados en el curso.<br><br>
 El proyecto final de ciencia de datos de IBM  se refiere específicamente a la reutilización de la primera etapa del cohete en los lanzamientos de SpaceX, a través de la ciencia de datos se extrae información significativa de los datos para analizar diversos aspectos de sus operaciones, como el rendimiento de los cohetes, el análisis de los vuelos, la optimización de los lanzamientos, entre otros.
