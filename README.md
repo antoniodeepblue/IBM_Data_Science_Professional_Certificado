@@ -3,8 +3,8 @@ Este repositorio reúne todo el plan para alcanzar la certificación y los objet
 El enlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
 
 Los cursos que vi en esta especialización son los siguientes:<br>
--¿Qué es la ciencia de datos? [Link](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science/).
-• ¿Qué es la ciencia de datos?           
+• ¿Qué es la ciencia de datos?   
+<span><img src="" height="700px" width="960px" alt="SpaceX"></span>
 • Herramientas para la ciencia de datos 
 • Metodología de ciencia de datos 
 • Python para ciencia de datos, inteligencia artificial y desarrollo 
@@ -16,9 +16,9 @@ Los cursos que vi en esta especialización son los siguientes:<br>
 • Capstone de ciencia de datos aplicada 
 
 
-# Ciencia de Datos
+# Proyecto de Ciencia de Datos aplicada
 Proyecto de ciencia de datos aplicada, donde se guardan los laboratorios realizados en el curso.<br><br>
-El proyecto final de ciencia de datos de IBM  se refiere específicamente a la reutilización de la primera etapa del cohete en los lanzamientos de SpaceX, a través de la ciencia de datos se extrae información significativa de los datos para analizar diversos aspectos de sus operaciones, como el rendimiento de los cohetes, el análisis de los vuelos, la optimización de los lanzamientos, entre otros.
+El proyecto final se refiere específicamente a la reutilización de la primera etapa del cohete en los lanzamientos de SpaceX, a través de la ciencia de datos se extrae información significativa de los datos para analizar diversos aspectos de sus operaciones, como el rendimiento de los cohetes, el análisis de los vuelos, la optimización de los lanzamientos, entre otros.
 
 Los datos de lanzamientos anteriores se han utilizado para predecir la tendencia del éxito o fracaso de futuros lanzamientos. Esto implicó el uso de técnicas de aprendizaje automático y análisis de datos para identificar factores que influyen en el éxito de un lanzamiento, como las condiciones meteorológicas, la carga útil, la ubicación del sitio de lanzamiento, etc.
 
