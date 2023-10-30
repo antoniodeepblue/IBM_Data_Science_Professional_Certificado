@@ -3,9 +3,8 @@ Este repositorio reúne todo el plan para alcanzar la certificación y los objet
 El ennlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
 
 Los cursos que vi en esta especialización son los siguientes:<br>
-•	  <ul class="actions">
-										<ul><li><a href="[https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science]>¿Qué es la ciencia de datos?</a></li>
-									  </ul>
+[• ¿Qué es la ciencia de datos?]([https://www.example.com](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science))
+
 
            
 •	  Herramientas para la ciencia de datos 
