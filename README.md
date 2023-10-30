@@ -13,8 +13,8 @@ Los cursos que vi en esta especialización son los siguientes:<br>
 • Visualización de datos con Python <br>
 • Aprendizaje automático con Python <br>
 • Capstone de ciencia de datos aplicada <br>
-# Certificado obtenido:<br>
- <span><a href="https://www.coursera.org/account/accomplishments/professional-cert/CLP2BYJAURZA"> Mi certificado</a></span>
+
+ <span><a href="https://www.coursera.org/account/accomplishments/professional-cert/CLP2BYJAURZA"> MI CERTIFICADO</a></span>
 
 # Proyecto de Ciencia de Datos aplicada
 Proyecto de ciencia de datos aplicada, donde se guardan los laboratorios realizados en el curso.<br><br>
