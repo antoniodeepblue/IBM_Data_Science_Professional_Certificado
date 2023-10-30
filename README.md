@@ -1,9 +1,9 @@
 # IBM_Data_Science_Professional_Certificado
 Este repositorio reúne todo el plan para alcanzar la certificación y los objetivos que se han de cumplir para obtenerlo así como el proyecto final presentado para aplicar todos los conocimientos adquiridos.
 El enlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
-(https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science
+
 Los cursos que vi en esta especialización son los siguientes:<br>
-¿Qué es la ciencia de datos? [Link](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science/).
+-¿Qué es la ciencia de datos? [Link](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science/).
 • ¿Qué es la ciencia de datos?           
 • Herramientas para la ciencia de datos 
 • Metodología de ciencia de datos 
