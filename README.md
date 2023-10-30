@@ -1,6 +1,19 @@
 # IBM_Data_Science_Professional_Certificado
 Este repositorio reúne todo el plan para alcanzar la certificación y los objetivos que se han de cumplir para obtenerlo así como el proyecto final presentado para aplicar todos los conocimientos adquiridos.
- El ennlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
+El ennlace del curso de especialización: [ https://www.coursera.org/professional-certificates/ibm-data-science ]
+
+Los cursos que vi en esta especialización son los siguientes:
+•	  ¿Qué es la ciencia de datos? Ir al curso
+•	  Herramientas para la ciencia de datos Ir al curso
+•	  Metodología de ciencia de datos Ir al curso
+•	  Python para ciencia de datos, inteligencia artificial y desarrollo Ir al curso
+•	  Proyecto Python para ciencia de datos Ir al curso
+•	  Bases de datos y SQL para ciencia de datos con Python Ir al curso
+•	  Análisis de datos con Python Ir al curso
+•	  Visualización de datos con Python Ir al curso
+•	  Aprendizaje automático con Python Ir al curso
+•	  Capstone de ciencia de datos aplicada Ir al curso
+
 
 # Ciencia de Datos
 Proyecto de ciencia de datos aplicada, donde se guardan los laboratorios realizados en el curso.<br><br>
